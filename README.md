@@ -1,4 +1,3 @@
-# The-Empathetic-Buddy
 # 🧠 The Empathetic Buddy: State-to-Text Clinical AI
 Finalist (Top 15) — OpenAImer 2026 GenAI Hackathon (Track B) at Jadavpur University
 
